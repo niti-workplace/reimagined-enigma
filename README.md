@@ -1,4 +1,4 @@
 # reimagined-enigma
 This is my First Git Repo.
 <br>
-Author-Nitish Kumar
+Author-Nitish Kumar NITI
